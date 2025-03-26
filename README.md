@@ -2,6 +2,8 @@
 
 This repository contains a workflow for n8n that demonstrates how to build an AI agent that leverages the Model Context Protocol (MCP) to access and execute external tools.
 
+![n8n MCP Agent Demo Screenshot](screenshot.png)
+
 This is using the [n8n community MCP node found here](https://github.com/nerding-io/n8n-nodes-mcp). You must download this before using this demo n8n workflow. Instructions can be found there.
 
 ## Overview
